@@ -26,7 +26,7 @@ there are git submodules so be sure to run:
 
 ```git submodule update --init --recursive```
 
-Then, cd to the pymm-gmra directory. The code can be build using
+Then, cd to the gmra directory. The code can be build using
 ```python3 setup.py build```
 
 and then installed using
